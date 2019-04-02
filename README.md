@@ -19,3 +19,5 @@ __**Guide for Noobs:**__ (Note this is based on Windows)
 11. Exit the command window, and open the start.cmd file. Congratulations, your rpc should now be running!
 
 (Table coming soon!)
+but for now, have this:
+https://pi.elixi.re/i/npan.png
