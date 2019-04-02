@@ -4,6 +4,7 @@ Easy Custom Rich Presence for Discord
 This is a basic rpc script for Discord. It will work automatically with a discord window currently open. **Not compatible with discordapp.com(browser) or mobile.**
 
 __**Guide for Noobs:**__ (Note this is based on Windows)
+
 Make sure you have [Node.js/NPM](https://nodejs.org/dist/v10.15.3/node-v10.15.3-x64.msi)
 1. Clone the repository (big green button)
 2. Go to the [Discord Dev page](https://discordapp.com/developers/applications) and create a new application.
