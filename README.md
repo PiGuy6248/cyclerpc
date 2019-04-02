@@ -5,7 +5,7 @@ This is a basic rpc script for Discord. It will work automatically with a discor
 
 __**Guide for Noobs:**__ (Note this is based on Windows)
 
-Make sure you have [Node.js/NPM](https://nodejs.org/dist/v10.15.3/node-v10.15.3-x64.msi)
+**Make sure you have [Node.js/NPM](https://nodejs.org/dist/v10.15.3/node-v10.15.3-x64.msi)**
 1. Clone the repository (big green button)
 2. Go to the [Discord Dev page](https://discordapp.com/developers/applications) and create a new application.
 3. Click on "Rich Presence" on the side and click Add Image(s). add the image(s) you want to use here.
