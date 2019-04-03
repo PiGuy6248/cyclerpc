@@ -19,6 +19,16 @@ This is a basic rpc script for Discord. It will work automatically with a discor
 10. run `npm install discord-rich-presence`
 11. Exit the command window, and open the start.cmd file. Congratulations, your rpc should now be running!
 
-(Table coming soon!)
-but for now, have this:
+## Variable List
+|Name|Usage|Optional?|
+|CLIENT_ID_HERE|Put the client ID of the application, found on the Discord Dev Application site| |
+|DETAILS/MORE DETAILS/ETC|Put each of your selective details here. Follow the format given.|Don't you want to have text?|
+|largeImageKey|Key for the large image of your rpc (set on the application page)| |
+|smallImageKey|Key for the small image of your rpc (set on the application page)|YES|
+|largeImageText|Text displayed when hovering over the large image.|YES|
+|smallImageText|Text displayed when hovering over the small image.|YES|
+|state|(Not used in this portion)Text under the details line|YES|
+
+
+### Visual Reference:
 https://pi.elixi.re/i/npan.png
