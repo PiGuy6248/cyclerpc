@@ -20,6 +20,7 @@ This is a basic rpc script for Discord. It will work automatically with a discor
 11. Exit the command window, and open the start.cmd file. Congratulations, your rpc should now be running!
 
 ## Variable List
+
 |Name|Usage|Optional?|
 |CLIENT_ID_HERE|Put the client ID of the application, found on the Discord Dev Application site| |
 |DETAILS/MORE DETAILS/ETC|Put each of your selective details here. Follow the format given.|Don't you want to have text?|
