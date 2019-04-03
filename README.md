@@ -22,9 +22,10 @@ This is a basic rpc script for Discord. It will work automatically with a discor
 ## Variable List
 
 |Name|Usage|Optional?|
-|CLIENT_ID_HERE|Put the client ID of the application, found on the Discord Dev Application site| |
+
+|CLIENT_ID_HERE|Put the client ID of the application, found on the Discord Dev Application site|no|
 |DETAILS/MORE DETAILS/ETC|Put each of your selective details here. Follow the format given.|Don't you want to have text?|
-|largeImageKey|Key for the large image of your rpc (set on the application page)| |
+|largeImageKey|Key for the large image of your rpc (set on the application page)|no|
 |smallImageKey|Key for the small image of your rpc (set on the application page)|YES|
 |largeImageText|Text displayed when hovering over the large image.|YES|
 |smallImageText|Text displayed when hovering over the small image.|YES|
