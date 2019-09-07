@@ -19,3 +19,4 @@ setInterval(() => discord.updatePresence({
         largeImageText: "TEXT HERE",
         smallImageText: "TEXT HERE",
         instance: true
+}), 60000)
